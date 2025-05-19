@@ -2,7 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/avrilstihler/Agentes-de-IA/blob/main/agentes_instagram_gemini.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([URL_DO_SEU_NOTEBOOK_CHATBOT_AQUI](https://colab.research.google.com/github/avrilstihler/Agentes-de-IA/blob/main/chat_bot_gemini.ipynb))
-*(Substitua pelas URLs dos seus notebooks)*
 
 Este repositório contém dois projetos em Python e Google Colab que exploram o poder do Google Gemini:
 
